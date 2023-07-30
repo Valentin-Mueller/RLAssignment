@@ -11,3 +11,7 @@ To install the requirements, which can be found in the [requirements.txt](requir
 ```
 pip install -r requirements.txt
 ```
+
+## Further Information
+
+Most information can be found either in the [Notebooks themselves](src/) or in the [documentation](docs/AssignmentReinforcementLearning.pdf), which contains timeline and project report. The presentation is located [here](docs/PresentationExplainableAI.pptx), and the video, which is to large for GitHub, can only be found in the local version [at this location](docs/PresentationExplainableAI.mp4).
